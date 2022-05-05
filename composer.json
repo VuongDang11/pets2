@@ -1,0 +1,20 @@
+{
+  "name": "vdanggre/328/pets2",
+  "authors": [
+    {
+      "name": "Vuong Dang",
+      "email": "Dang.Vuong@student.greenriver.edu"
+    },
+    {
+      "name": "Stephen Allen",
+      "email": "Allen.Stephen@student.greenriver.edu"
+    },
+    {
+      "name": "fauzia ameeri",
+      "email": "ameeri.fauzia@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
