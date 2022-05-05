@@ -35,7 +35,7 @@ $f3->route('POST /pet-order2', function () {
 
     var_dump($_POST);
     $_SESSION['type'] = $_POST['type'];
-    $_SESSION['pet-color'] = $_POST['pet-color'];
+    $_SESSION['petColor'] = $_POST['petColor'];
 
     $view = new Template();
     echo $view->render('view/pet-order2.html');
